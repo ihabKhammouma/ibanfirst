@@ -4,7 +4,8 @@ Bienvenue à **IBANFIRST API**
 # Requirements:
 
 * php >=7.2
-- [x] composer
+* composer
+* npm
 
 # Setup
 
@@ -23,6 +24,16 @@ API_END_POINT=''
 API_USERNAME=''
 API_PASSWORD=''
 ```
+
+## instal package css,js & compiled:
+
+```bash
+
+npm install
+npm run prod
+
+```
+
 
 ## runing server:
 
